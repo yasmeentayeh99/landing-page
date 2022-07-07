@@ -1,0 +1,16 @@
+.pargraph {
+    text-align: center;
+    color: black;
+    display: flex ;
+    flex-direction:column ;
+    flex-wrap: wrap;
+
+
+}
+.pargraph :nth-child {
+    flex-wrap: wrap;
+}
+
+h1{
+    font-size: 30px;
+}
